@@ -349,7 +349,7 @@ Dilarang memperjualbelikan source code tanpa izin developer.
 
 # 👨‍💻 Developer
 
-**Nawfal**
+**Nawfal Ulinnuha Faiz**
 
 ---
 
